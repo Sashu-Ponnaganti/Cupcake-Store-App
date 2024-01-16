@@ -14,6 +14,7 @@
 		8CE7C45E2B560C770044F601 /* Cupcake_CornerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE7C45D2B560C770044F601 /* Cupcake_CornerTests.swift */; };
 		8CE7C4682B560C770044F601 /* Cupcake_CornerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE7C4672B560C770044F601 /* Cupcake_CornerUITests.swift */; };
 		8CE7C46A2B560C770044F601 /* Cupcake_CornerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE7C4692B560C770044F601 /* Cupcake_CornerUITestsLaunchTests.swift */; };
+		8CE7C4772B560D000044F601 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE7C4762B560D000044F601 /* Order.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8CE7C4632B560C770044F601 /* Cupcake CornerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cupcake CornerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CE7C4672B560C770044F601 /* Cupcake_CornerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cupcake_CornerUITests.swift; sourceTree = "<group>"; };
 		8CE7C4692B560C770044F601 /* Cupcake_CornerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cupcake_CornerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8CE7C4762B560D000044F601 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				8CE7C44C2B560C750044F601 /* Cupcake_CornerApp.swift */,
 				8CE7C44E2B560C750044F601 /* ContentView.swift */,
+				8CE7C4762B560D000044F601 /* Order.swift */,
 				8CE7C4502B560C770044F601 /* Assets.xcassets */,
 				8CE7C4522B560C770044F601 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CE7C4772B560D000044F601 /* Order.swift in Sources */,
 				8CE7C44F2B560C750044F601 /* ContentView.swift in Sources */,
 				8CE7C44D2B560C750044F601 /* Cupcake_CornerApp.swift in Sources */,
 			);
